@@ -1,5 +1,5 @@
 # vm-bot
 
 
-bot i made because i had wayy too much time on my hands
+shit discord bot
 type vm.help to get started
