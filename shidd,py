@@ -59,6 +59,6 @@ async def volume(ctx, volume: int):
     return await ctx.send("Not connected to a voice channel.")
 
 
-bot.run('NzgxMzg5NjUyNjE1MjMzNTQw.X7870g.9OBuziesET1Or_6dOqaCbwlF0sA')
+bot.run('token')
 
 
