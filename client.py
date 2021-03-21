@@ -13,4 +13,4 @@ async def on_message(message):
     if message.content == 'hello':
         await message.channel.send('hello')
 
-client.run('NzgxMzg5NjUyNjE1MjMzNTQw.X7870g.9OBuziesET1Or_6dOqaCbwlF0sA')
+client.run('token')
